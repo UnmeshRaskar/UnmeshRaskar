@@ -1,4 +1,3 @@
--- I don't use this account anymore. For any past prejects/data/reports, send a mail at unmeshrar@gmail.com
 -- For Kaggle Notebooks, reach out to the other teammates
 //
 
